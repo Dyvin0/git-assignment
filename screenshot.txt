@@ -1,0 +1,15 @@
+GIT ASSIGNMENT PROOF
+I created a project folder and initialized a Git repository using git init.
+I created a README.md file and added an explanation of the project.
+I staged and committed the README file as my first commit.
+I created a new branch called feature.
+I switched to the feature branch.
+I created a new file called feature.txt describing a VS Code feature.
+I staged and committed the feature.txt file in the feature branch.
+I switched back to the main branch.
+I merged the feature branch into main.
+I connected my local repository to GitHub.
+I pushed my project to GitHub successfully.
+I fixed authentication issues and resolved a branch divergence problem using force push.
+I created and merged a pull request on GitHub.
+Final repository contains README.md and feature.txt.
